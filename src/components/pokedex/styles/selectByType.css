@@ -1,0 +1,13 @@
+.select-by-type{
+ width: 50%;
+ margin-bottom: 20px;
+ padding: 5px 10px;
+ font-family: inherit;
+ text-transform: capitalize;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ text-align: justify;
+ border: 2px solid black;
+
+}

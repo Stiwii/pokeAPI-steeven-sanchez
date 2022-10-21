@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Abyssinica+SIL&family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abyssinica+SIL&family=Inter:wght@100;200;300;400;500;600;700;800;900&family=Silkscreen:wght@400;700&display=swap');
+
+:root{
+    --color-red: #d93f3f ;
+    --color-white: white;
+}
+
+body{
+    font-family: "Open Sans", sans-serif;
+    background: linear-gradient(45deg,rgba(0, 0, 0, 0.764),rgba(255, 255, 255, 0.755), rgba(217, 63, 63, 0.701),white,rgba(0, 0, 0, 0.764));
+}
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+    font-family: inherit;
+}
+ul{
+    list-style: none;
+}
+img{
+    display: block;
+    width: 100%;
+}
+input{
+    outline: none;
+}
+
+button{
+    border: none;
+}
